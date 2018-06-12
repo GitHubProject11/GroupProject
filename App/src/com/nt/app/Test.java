@@ -10,10 +10,17 @@ public int sub()
 	int x=15-8;
 	return x;
 	}
+
 public void mod() {
 	int m=10%2;
 	System.out.println("mod"+m);
 }
+
+
+public int mult(int a,int b) {
+	return a*b;
+}
+
 public void div() {
 	int z=10/5;
 	System.out.println("dic:"+z);
@@ -29,6 +36,7 @@ public String wishMsg(String name) {
 		t.add();
 		System.err.println(t);
         System.out.println(t.wishMsg("satya")); 
+        System.out.println(t.mult(10,20));
         System.out.println("Welcome come again");
         System.out.println("sub");
 
