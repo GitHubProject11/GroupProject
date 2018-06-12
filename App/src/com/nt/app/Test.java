@@ -10,6 +10,9 @@ public int sub()
 	int x=15-8;
 	return x;
 	}
+public int mult(int a,int b) {
+	return a*b;
+}
 public String wishMsg(String name) {
 	System.out.println("hai");
 	return "good afternoon";
@@ -21,6 +24,7 @@ public String wishMsg(String name) {
 		t.add();
 		System.err.println(t);
         System.out.println(t.wishMsg("satya")); 
+        System.out.println(t.mult(10,20));
         System.out.println("Welcome come again");
         System.out.println("sub");
 
