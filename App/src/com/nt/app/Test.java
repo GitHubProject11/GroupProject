@@ -8,9 +8,12 @@ public void add() {
 public int sub()
 {
 	int x=15-8;
-	return x;}
+	return x;
+	}
 public String wishMsg(String name) {
+	System.out.println("hai");
 	return "good afternoon";
+	
 }
 	public static void main(String[] args) {
 		System.out.println("Hello");
