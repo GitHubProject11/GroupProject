@@ -5,6 +5,10 @@ public void add() {
 	int x=10+5;
 	System.out.println(x);
 	}
+public int sub()
+{
+	int x=15-8;
+	return x;}
 public String wishMsg(String name) {
 	return "good afternoon";
 }
