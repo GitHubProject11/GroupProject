@@ -15,7 +15,7 @@ public String wishMsg(String name) {
 		System.err.println(t);
         System.out.println(t.wishMsg("satya")); 
         System.out.println("Welcome come again");
-        System.out.println("agserhdtktjhf");
+        System.out.println("sub");
 	}
 
 }
