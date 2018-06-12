@@ -10,6 +10,10 @@ public int sub()
 	int x=15-8;
 	return x;
 	}
+public void mod() {
+	int m=10%2;
+	System.out.println("mod"+m);
+}
 public void div() {
 	int z=10/5;
 	System.out.println("dic:"+z);
