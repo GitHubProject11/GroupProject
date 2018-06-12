@@ -6,9 +6,10 @@ public void add() {
 	System.out.println(x);
 	}
 	public static void main(String[] args) {
-		System.out.println("Hello");
-		System.out.println("dfsgsd");
+		System.out.println("x");
+		System.out.println("x");
 		System.out.println("satyasdsafdgfhng");
+		Test t1;
 		Test t=new Test();
 		t.add();
 
