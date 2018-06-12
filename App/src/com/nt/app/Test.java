@@ -10,6 +10,10 @@ public int sub()
 	int x=15-8;
 	return x;
 	}
+public void div() {
+	int z=10/5;
+	System.out.println(z);
+}
 public String wishMsg(String name) {
 	System.out.println("hai");
 	return "good afternoon";
