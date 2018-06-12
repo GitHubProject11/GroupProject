@@ -12,7 +12,7 @@ public int sub()
 	}
 public void div() {
 	int z=10/5;
-	System.out.println(z);
+	System.out.println("dic:"+z);
 }
 public String wishMsg(String name) {
 	System.out.println("hai");
