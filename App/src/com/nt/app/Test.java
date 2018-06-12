@@ -8,6 +8,8 @@ public void add() {
 	public static void main(String[] args) {
 		System.out.println("Hello");
 		System.out.println("dfsgsd");
+		System.out.println("waeshfdjgcfkh");
+		System.out.println("satya");
 		Test t=new Test();
 		t.add();
 
