@@ -10,8 +10,13 @@ public int sub()
 	int x=15-8;
 	return x;
 	}
+
 public int mult(int a,int b) {
 	return a*b;
+}
+public void div() {
+	int z=10/5;
+	System.out.println("dic:"+z);
 }
 public String wishMsg(String name) {
 	System.out.println("hai");
