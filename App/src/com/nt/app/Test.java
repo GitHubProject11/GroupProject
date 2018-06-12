@@ -24,6 +24,7 @@ public String wishMsg(String name) {
         System.out.println("Welcome come again");
         System.out.println("sub");
         System.out.println("comflicts");
+        System.out.println("hi");
 	}
 
 }
